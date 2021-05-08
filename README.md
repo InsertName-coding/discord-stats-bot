@@ -1,2 +1,4 @@
 # discord-stats-bot
-A bot to collect all your Server-stats
+Ein Bot, welcher all deine Stats sammelt :D
+
+All dies ist noch Work in Progress
